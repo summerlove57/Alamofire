@@ -22,6 +22,9 @@
 //  THE SOFTWARE.
 //
 
+
+// Added by Summer
+
 import Foundation
 
 /// Types adopting the `URLConvertible` protocol can be used to construct URLs, which are then used to construct
